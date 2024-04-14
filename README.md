@@ -9,4 +9,4 @@ Python, C/C++, maybe Machine Learning (Source: Trust me Bro)
 
 **Fun Fact**
 Lemons are not naturally occuring, and carrots were not just orange in color.
-Bananas used to had seeds inside.
+OINK comes from minecraft for me and the org i am part of.
