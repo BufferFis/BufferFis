@@ -8,5 +8,5 @@ Currently I am a member of Google developers student club in data science depart
 Python, C/C++, maybe Machine Learning (Source: Trust me Bro)
 
 **Fun Fact**
-Lemons are not naturally occuring, and carrots were not just orange in color.
+Wright Brother's first flight was in 1903 and we reached moon in 1969.
 OINK comes from minecraft for me and the org i am part of.
