@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-It's BufferFis here, and I am from Vellore Institute of Technology, pursuing bachelors in Computer Science with specialization in AI and ML.
+It's BufferFis here, and I am from Vellore Institute of Technology, trying to pursue B.Tech. in Computer Science with specialization in AI and ML.
 
 **Skills**
-Python, C/C++, Java, maybe Machine Learning (Source: Trust me Bro)
+Python, C/C++, Java, maybe Machine Learning, Deep Learning and LLMs (Source: Trust me Bro [PLEASE])
 
 **Fun Fact**
-Wright Brother's first flight was in 1903 and we reached moon in 1969.
-OINK comes from minecraft for me and the org i am part of.
+GPTs which today use transformers were derived from a simple transformer model which was just made to be a language conversion tool :D, How cool iz that.
